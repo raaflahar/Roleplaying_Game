@@ -4,9 +4,9 @@ This is project to build simple Roleplay Games about Traveler that have goal to 
 The writer made this project to improve JavaScript skill and to better understanding the syntax and loop algorithm.
 
 ## Table of Contents
-- [Introduction] (#Introduction)
-- [Purpose] (#Purpose)
-- [Preview] (#Preview)
+- [Introduction](#Introduction)
+- [Purpose](#Purpose)
+- [Preview](#Preview)
 
 ## Introduction
 
